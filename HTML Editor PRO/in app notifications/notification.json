@@ -1,1 +1,10 @@
-
+{
+  "Preference": "1",
+  "Title" : "Welcome to HTML Editor PRO",
+  "Message " : "Hope you will have a great experience",
+  "PositiveButton" : "Let's Explore",
+  "CancelButton" : "Cancle",
+  "Cancelable" : "False",
+  "ButtonLink" : "",
+  "HasLink" : "False"
+}
